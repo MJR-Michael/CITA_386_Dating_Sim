@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/TItleScreen.unity
+    guid: da36a68a818b9c44f9cc6658ff1801db
+  - enabled: 1
     path: Assets/Scenes/ChatMenu.unity
     guid: 026453ca0b390cf119cbf97223ee9606
   - enabled: 1
@@ -17,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ProfileScreen.unity
     guid: d316069f96c65aaf7b9a83cc5f3ae8bb
-  - enabled: 1
-    path: Assets/Scenes/TItleScreen.unity
-    guid: da36a68a818b9c44f9cc6658ff1801db
   - enabled: 1
     path: Assets/Scenes/CharacterMenu.unity
     guid: bde7245246a60e91bb566322530dda5d
